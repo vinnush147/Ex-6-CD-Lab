@@ -81,8 +81,7 @@ t1 = a + b
 t2 = t1 - c
 
 # OUTPUT
-![image](https://github.com/user-attachments/assets/08832f48-10f8-4a9f-b747-5b4c43d7baa6)
-
+![image](https://github.com/user-attachments/assets/ce83d0a7-eda3-415d-bf7c-e308264193ec)
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
